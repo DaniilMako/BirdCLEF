@@ -54,9 +54,8 @@ Ensure you have the following libraries installed:
 - `librosa`
 - `torch`
 - `torchvision`
-- `tqdm`
+- `timm`
 - `scikit-learn`
-- `efficientnet_pytorch`
 
 You can install the required libraries using:
 ```sh
