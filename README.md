@@ -56,6 +56,7 @@ Ensure you have the following libraries installed:
 - `torchvision`
 - `timm`
 - `scikit-learn`
+- `pillow`
 
 You can install the required libraries using:
 ```sh
