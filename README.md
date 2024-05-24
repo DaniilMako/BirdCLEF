@@ -1,4 +1,4 @@
-# BirdCLEF from (Kaggle)[https://www.kaggle.com/competitions/birdclef-2024]
+# BirdCLEF from [Kaggle](https://www.kaggle.com/competitions/birdclef-2024)
 
 
 # Bird Audio Classification
