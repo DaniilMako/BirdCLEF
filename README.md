@@ -1,7 +1,6 @@
 # BirdCLEF from [Kaggle](https://www.kaggle.com/competitions/birdclef-2024)
 
 
-# Bird Audio Classification
 
 This project focuses on classifying 182 species of birds using audio recordings. The primary objective is to leverage various deep learning models and preprocessing techniques to achieve high classification accuracy. Specifically, the project employs ResNet and EfficientNet models trained on different types of spectrograms. The dataset was processed with and without silencing the quiet parts of the recordings, and multiple experiments were conducted to optimize the classification performance.
 
