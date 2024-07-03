@@ -60,3 +60,6 @@ Ensure you have the following libraries installed:
 You can install the required libraries using:
 ```sh
 pip install -r requirements.txt
+
+## UPDATE from Me and Naxum3
+Add birdCLEF.py for start application and also CI/CD
